@@ -1,2 +1,2 @@
 # word-unscrambler-game
-A word unscrambling web game
+Web application for a word unscrambling game
