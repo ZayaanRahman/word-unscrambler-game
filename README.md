@@ -21,7 +21,7 @@ Make sure you have Node.js installed. You can download it [here](https://nodejs.
    cd word-unscrambler-game
    ```
 
-In the following steps, when setting up the backend and frontend, make sure to do so in separate terminal windows.
+   In the following steps, when setting up the backend and frontend, make sure to do so in separate terminal windows.
 
 
 3. Enter the backend folder, and install the required dependencies
@@ -43,14 +43,14 @@ In the following steps, when setting up the backend and frontend, make sure to d
     npm run dev
     ```
 
-The backend server will be hosted on port 3000 by default.
+   The backend server will be hosted on port 3000 by default.
 
 2. From your second terminal, run the frontend server
     ```sh
     npm run dev
     ```
 
-The game can then be accessed by opening the link provided by the frontend server in your browser.
+   The game can then be accessed by opening the link provided by the frontend server in your browser.
 
 ## Usage
 
